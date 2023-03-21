@@ -2,10 +2,9 @@
   "name": "testsocket",
   "version": "1.0.0",
   "description": "testing socket io",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-    
   },
   "repository": {
     "type": "git",
@@ -27,6 +26,5 @@
     "express": "^4.18.2",
     "nodemon": "^2.0.21",
     "socket.io": "^4.6.1"
-  },
-
+  }
 }
