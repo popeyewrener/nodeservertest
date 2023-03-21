@@ -28,12 +28,5 @@
     "nodemon": "^2.0.21",
     "socket.io": "^4.6.1"
   },
-{
-  "name": "api-make",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "engines": {
-    "node": "14.x"
-  },
+
 }
